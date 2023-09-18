@@ -5,3 +5,4 @@ pydeck
 streamlit
 faker
 scikit-learn
+openpyxl
